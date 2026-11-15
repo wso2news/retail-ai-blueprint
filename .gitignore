@@ -1,0 +1,51 @@
+# Secretos y configuración local
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Datos privados y locales
+*.db
+*.sqlite
+*.sqlite3
+data/
+private/
+personal/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Herramientas y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Artefactos de pruebas y compilación
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+# Respaldos locales
+*.bak
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+# Virtual environments
+.venv
+.python-version
