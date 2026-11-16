@@ -1,7 +1,7 @@
 ﻿# SPEC-REAL - retail-ai-blueprint
 
 > Aprobada por LORD 2026-11-15. Fuente de verdad: docs/ + codigo real en este repo.
-> HEAD: 2dbfa3853d80a7483f32497c92b0c4500375be46
+> HEAD: 6b16ae0af97d91468095091fb7113d7683e1c561
 > Repo: retail-ai-blueprint
 
 ## Alcance real
